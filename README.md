@@ -1,6 +1,12 @@
 # Random-Windows-Cursor-Scheme
 This small project aims to shuffle between your favourite cursor schemes on each startup.
 
+Install:
+No need to install, just download the release https://github.com/itzMetaa/Random-Windows-Cursor-Scheme/releases/tag/Release 
+unzip to the folder of your choice and run
+
+How it works:
+
 1. Get a cursor of your choice.
 
 2. When you run (double click to open) program.cmd the mouse options will pop up, chose your desired scheme to save. 
