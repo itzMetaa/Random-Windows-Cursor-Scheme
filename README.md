@@ -7,9 +7,9 @@ This small project aims to shuffle between your favourite cursor schemes on each
 
 3. Press 1 and enter on the terminal to save the currently selected cursor scheme.
 
-  3.1 (Optional) Keep the mouse tab open so you can quickly save your favourite cursor schemes.
+3.1 (Optional) Keep the mouse tab open so you can quickly save your favourite cursor schemes.
 
-  3.2 (optional) As soon as you're done, you can press 2 and enter to roll for a scheme from your saved ones.
+3.2 (optional) As soon as you're done, you can press 2 and enter to roll for a scheme from your saved ones.
 
 4. IF you'd like to have a random cursor on each start-up, press 3 and enter.
 
